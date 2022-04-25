@@ -1792,7 +1792,7 @@
               "layer": 1,
               "layerOffset": 0,
               "field": 0,
-              "amount": 30,
+              "amount": 36,
               "amountV": 0,
               "failChance": 0,
               "failChanceV": 0,
@@ -1977,7 +1977,7 @@
                   "actions": [
                     {
                       "x": 0,
-                      "y": 120,
+                      "y": 140,
                       "countDown": 100,
                       "duration": 60
                     }
